@@ -45,7 +45,7 @@ Además de nuestros proyectos abiertos, desarrollamos soluciones privadas para c
 
 <h2 align="left">Código de Conducta 📜</h2>
 
-<p align="left">En <b>Advanced Community</b> valoramos el respeto y la profesionalidad. Por favor, lee nuestro <a href="#">Código de Conducta</a> para asegurarte de que todos tengan una experiencia positiva en nuestra comunidad y colaboraciones.</p>
+<p align="left">En <b>Advanced Community</b> valoramos el respeto y la profesionalidad. Por favor, lee nuestro <a href="conduct.md">Código de Conducta</a> para asegurarte de que todos tengan una experiencia positiva en nuestra comunidad y colaboraciones.</p>
 
 <h2 align="left">Licencia 📄</h2>
 
