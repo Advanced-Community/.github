@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/10e24382-e1a2-4535-b845-864f458ffd68"  alt="Advanced Community IMG"/>
-  <h2 align="center">Advanced Community</h2>
+  <img src="https://github.com/user-attachments/assets/ee95cdb8-9459-4658-8403-dbf071c5288b"  alt="Advanced Community IMG"/>
+<h2 align="center">Advanced Community</h2>
   <p align="center">Creando proyectos para el mundo.</p>
 </div>
 <div align="center">
